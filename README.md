@@ -1,62 +1,92 @@
 <h1 align="center">Hi 👋, I'm Sarthak Panigrahi</h1>
-<h3 align="center">Full-Stack Developer (MERN) | Building Scalable Web Applications</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Applications"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sarthakpanigrahi-2246&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Full-Stack Developer working with the **MERN Stack**
-- 🌱 Currently improving **backend architecture and system design**
+- 💻 Full Stack Developer specializing in **MERN Stack**
+- 🌱 Currently improving **Backend Architecture & System Design**
+- 🔗 Creating and maintaining RESTful APIs using Node.js and Express
 - 🧠 Practicing **Data Structures & Algorithms**
-- ⚡ Interested in **scalable applications and DevOps**
-- 🎯 Goal: Build impactful software and grow as a software engineer
+- ⚡ Interested in **Scalable Applications and DevOps**
+- 🎯 Goal: **Build impactful software and grow as a Software Engineer**
 
 ---
 
 # 🛠 Tech Stack
 
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 💻 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,ts"/>
+</p>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Java • JavaScript • TypeScript
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+---
 
-### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🎨 Frontend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+</p>
 
-### ☁ DevOps / Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+React • TailwindCSS • Vite • React Router • React Query • Redux
+
+---
+
+### ⚙️ Backend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+Node.js • Express.js • REST APIs • JWT Authentication • Nodemon
+
+---
+
+### 🗄 Database
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
+</p>
+
+MongoDB • PostgreSQL
+
+---
+
+### ☁ DevOps & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman"/>
+</p>
+
+Docker • Kubernetes • Git • Postman
+
+# 📊 Coding Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthakpanigrahi-2246&theme=tokyo-night"/>
+</p>
 
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sarthak-panigrahi-sp22462246">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="https://sarthakpanigrahi2246.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel">
+<img src="https://skillicons.dev/icons?i=vercel" height="40"/>
 </a>
 
 <a href="https://leetcode.com/u/sarthakpanigrahi/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
 </a>
 
 </p>
