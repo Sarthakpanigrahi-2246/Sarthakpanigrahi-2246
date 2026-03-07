@@ -67,10 +67,10 @@ MongoDB • PostgreSQL
 
 Docker • Kubernetes • Git • Postman
 
-# 📊 Coding Activity Graph
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthakpanigrahi-2246&theme=tokyo-night"/>
+  <img src="https://streak-stats.demolab.com?user=Sarthakpanigrahi-2246&theme=tokyonight&hide_border=true"/>
 </p>
 
 # 🌐 Connect With Me
