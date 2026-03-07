@@ -62,7 +62,7 @@ MongoDB • PostgreSQL
 
 ### ☁ DevOps & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman,vercel"/>
 </p>
 
 Docker • Kubernetes • Git • Postman
