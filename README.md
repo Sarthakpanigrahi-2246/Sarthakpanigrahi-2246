@@ -9,8 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=Sarthakpanigrahi-2246&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 - 💻 Full Stack Developer specializing in **MERN Stack**
@@ -19,8 +17,6 @@
 - 🧠 Practicing **Data Structures & Algorithms**
 - ⚡ Interested in **Scalable Applications and DevOps**
 - 🎯 Goal: **Build impactful software and grow as a Software Engineer**
-
----
 
 # 🛠 Tech Stack
 
@@ -31,20 +27,17 @@
 
 Java • JavaScript • TypeScript
 
----
-
 ### 🎨 Frontend Development
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite"/>
 </p>
 
-React • TailwindCSS • Vite • React Router • React Query • Redux
-
----
+React • React Query • Redux • TailwindCSS • Vite 
 
 ### ⚙️ Backend Development
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://cdn.simpleicons.org/nodemon/76D04B" height="48"/>
 </p>
 
 Node.js • Express.js • REST APIs • JWT Authentication • Nodemon
@@ -65,7 +58,7 @@ MongoDB • PostgreSQL
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,postman,vercel"/>
 </p>
 
-Docker • Kubernetes • Git • Postman
+Docker • Kubernetes • Git • Postman • Vercel
 
 ## 🔥 GitHub Streak
 
@@ -90,8 +83,6 @@ Docker • Kubernetes • Git • Postman
 </a>
 
 </p>
-
----
 
 <p align="center">
 ✨ Thanks for visiting my profile ✨
