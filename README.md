@@ -14,7 +14,6 @@
 - 💻 Full Stack Developer specializing in **MERN Stack**
 - 🌱 Currently improving **Backend Architecture & System Design**
 - 🔗 Creating and maintaining RESTful APIs using Node.js and Express
-- 🧠 Practicing **Data Structures & Algorithms**
 - ⚡ Interested in **Scalable Applications and DevOps**
 - 🎯 Goal: **Build impactful software and grow as a Software Engineer**
 
