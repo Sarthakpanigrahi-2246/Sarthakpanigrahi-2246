@@ -21,9 +21,9 @@
 
 ### 💻 Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=java,js"/>
 </p>
-• JavaScript
+•Core Java • JavaScript
 
 ### 🎨 Frontend Development
 <p align="left">
