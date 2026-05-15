@@ -44,10 +44,10 @@ Node.js • Express.js • REST APIs • JWT Authentication • Nodemon
 
 ### 🗄 Database
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-MongoDB • PostgreSQL
+MongoDB • MySQL
 
 ---
 
