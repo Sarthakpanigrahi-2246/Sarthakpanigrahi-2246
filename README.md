@@ -23,7 +23,7 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,js,ts"/>
 </p>
-•Core Java • JavaScript • Typescript
+• JavaScript • Typescript • Python
 
 ### 🎨 Frontend Development
 <p align="left">
