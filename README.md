@@ -21,7 +21,7 @@
 
 ### 💻 Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,ts"/>
+<img src="https://skillicons.dev/icons?i=js,ts, python"/>
 </p>
 • JavaScript • Typescript • Python
 
